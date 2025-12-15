@@ -1,0 +1,16 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/analysis/layout,_N_T_/analysis/comparison/layout,_N_T_/analysis/comparison/page,_N_T_/analysis/comparison"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/analysis/comparison/__PAGE__",
+    "/analysis/comparison",
+    "/analysis",
+    "/_index",
+    "/_head"
+  ]
+}

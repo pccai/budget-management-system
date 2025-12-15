@@ -1,0 +1,17 @@
+{
+  "/_global-error/page": "app/_global-error/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/analysis/comparison/page": "app/analysis/comparison/page.js",
+  "/analysis/monitoring/page": "app/analysis/monitoring/page.js",
+  "/analysis/simulation/page": "app/analysis/simulation/page.js",
+  "/control/adjustment/page": "app/control/adjustment/page.js",
+  "/control/occupation/page": "app/control/occupation/page.js",
+  "/control/policies/page": "app/control/policies/page.js",
+  "/control/strategy/page": "app/control/strategy/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/login/page": "app/login/page.js",
+  "/modeling/calendar/page": "app/modeling/calendar/page.js",
+  "/modeling/dimensions/page": "app/modeling/dimensions/page.js",
+  "/modeling/organization/page": "app/modeling/organization/page.js",
+  "/modeling/versions/page": "app/modeling/versions/page.js"
+}

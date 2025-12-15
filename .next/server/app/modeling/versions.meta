@@ -1,0 +1,16 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/modeling/layout,_N_T_/modeling/versions/layout,_N_T_/modeling/versions/page,_N_T_/modeling/versions"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/modeling/versions/__PAGE__",
+    "/modeling/versions",
+    "/modeling",
+    "/_index",
+    "/_head"
+  ]
+}

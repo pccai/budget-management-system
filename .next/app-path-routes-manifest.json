@@ -1,0 +1,17 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/analysis/comparison/page": "/analysis/comparison",
+  "/analysis/monitoring/page": "/analysis/monitoring",
+  "/analysis/simulation/page": "/analysis/simulation",
+  "/control/adjustment/page": "/control/adjustment",
+  "/control/occupation/page": "/control/occupation",
+  "/control/policies/page": "/control/policies",
+  "/control/strategy/page": "/control/strategy",
+  "/dashboard/page": "/dashboard",
+  "/login/page": "/login",
+  "/modeling/calendar/page": "/modeling/calendar",
+  "/modeling/dimensions/page": "/modeling/dimensions",
+  "/modeling/organization/page": "/modeling/organization",
+  "/modeling/versions/page": "/modeling/versions"
+}
